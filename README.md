@@ -19,4 +19,3 @@ It implements a **Neural Machine Translation (NMT)-style Transformer** model tha
 
 ---
 
-## 🏗️ Project Structure
